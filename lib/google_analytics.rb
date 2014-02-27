@@ -1,0 +1,5 @@
+require 'google/api_client'
+require 'date'
+require 'google_analytics/base'
+require 'google_analytics/connection'
+require 'google_analytics/reader'
